@@ -227,7 +227,7 @@ header.sticky ul li a{
 
 .portfolio .kotak{
     background-color: white;
-    height: 33vh;
+    height: 37vh;
     width: 40vw;
     box-shadow: 5px 5px 18px lightgray;
     border-radius: 10px;
@@ -249,7 +249,7 @@ header.sticky ul li a{
     height: 29vh;
     width: 13vw;
     margin-left: 3vw;
-    margin-top: 2vh;
+    margin-top: 3vh;
     border-radius: 15px;
 }
 
@@ -287,7 +287,8 @@ header.sticky ul li a{
     text-align: justify;
     margin-left: 3vw;
     margin-right: 1.5vw;
-    font-size: 1vw;
+    font-size: 0.8vw;
+    margin-top: 1vh;
 }
 
 .portfolio .kotakflex .text a{
@@ -304,7 +305,7 @@ header.sticky ul li a{
 }
 
 .portfolio .hidden{
-    height: 6vh;
+    height: 5Vh;
 }
 /* =================================== CONTACTME ========================================= */
 
